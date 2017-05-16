@@ -2,8 +2,8 @@
 # Maintainer: BlackEagle <ike.devolder@gmail.com>>
 
 pkgname=kodi-addon-visualization-goom
-_commit=54da358
-pkgver=20170429.54da358
+_commit=850cbd7
+pkgver=20170516.850cbd7
 pkgrel=1
 pkgdesc="GOOM visualizer for Kodi"
 arch=('i686' 'x86_64')
